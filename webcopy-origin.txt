@@ -1,0 +1,88 @@
+Uri: https://m.vk.com/login
+File Name: C:\Users\alexp\Desktop\Фишинг\ВК\m.vk.com\login.html
+Content Type: text/html
+
+Uri: https://m.vk.com/images/icons/favicons/fav_logo.ico?8
+File Name: C:\Users\alexp\Desktop\Фишинг\ВК\m.vk.com\images\icons\favicons\fav_logo.ico
+Content Type: image/x-icon
+
+Uri: https://m.vk.com/images/icons/pwa/favicon_32.png?11
+File Name: C:\Users\alexp\Desktop\Фишинг\ВК\m.vk.com\images\icons\pwa\favicon_32.png
+Content Type: image/png
+
+Uri: https://m.vk.com/images/icons/pwa/apple/default.png?11
+File Name: C:\Users\alexp\Desktop\Фишинг\ВК\m.vk.com\images\icons\pwa\apple\default.png
+Content Type: image/png
+
+Uri: https://st.vk.com/css/mobile/common.8600ab1da92ebdf4dc9a.css?
+File Name: C:\Users\alexp\Desktop\Фишинг\ВК\m.vk.com\css\mobile\common.8600ab1da92ebdf4dc9a.css
+Content Type: text/css
+
+Uri: https://st.vk.com/css/mobile/audio.cde4b6d0f128648375c8.css?
+File Name: C:\Users\alexp\Desktop\Фишинг\ВК\m.vk.com\css\mobile\audio.cde4b6d0f128648375c8.css
+Content Type: text/css
+
+Uri: https://st.vk.com/css/mobile/unauthorized.fec8f06f519d0e49fe6c.css?
+File Name: C:\Users\alexp\Desktop\Фишинг\ВК\m.vk.com\css\mobile\unauthorized.fec8f06f519d0e49fe6c.css
+Content Type: text/css
+
+Uri: https://m.vk.com/
+File Name: C:\Users\alexp\Desktop\Фишинг\ВК\m.vk.com\index.htm
+Content Type: text/html
+
+Uri: https://m.vk.com/join
+File Name: C:\Users\alexp\Desktop\Фишинг\ВК\m.vk.com\join.html
+Content Type: text/html
+
+Uri: https://m.vk.com/settings?act=select_lang
+File Name: C:\Users\alexp\Desktop\Фишинг\ВК\m.vk.com\settings.html
+Content Type: text/html
+
+Uri: https://st.vk.com/js/cmodules/mobile/runtime.f352abb791024cb3ce42.js?1d07c620110b00e55a34d186ceeae35ec4e58368651886666715583dddb1707b
+File Name: C:\Users\alexp\Desktop\Фишинг\ВК\m.vk.com\js\cmodules\mobile\runtime.f352abb791024cb3ce42.js
+Content Type: application/x-javascript
+
+Uri: https://st.vk.com/js/cmodules/mobile/vendor.fc3a7255a24b447ba326.js?4447fad308ee53cdc9582a24de9e83e99dee919215ec07bb770f5205a7e6723d
+File Name: C:\Users\alexp\Desktop\Фишинг\ВК\m.vk.com\js\cmodules\mobile\vendor.fc3a7255a24b447ba326.js
+Content Type: application/x-javascript
+
+Uri: https://st.vk.com/js/cmodules/mobile/icons.0f7b36834350a1b1c76c.js?4dc7e44598792fe99734df7418fef4f83ba0d914885e1c867057d7eb2088a678
+File Name: C:\Users\alexp\Desktop\Фишинг\ВК\m.vk.com\js\cmodules\mobile\icons.0f7b36834350a1b1c76c.js
+Content Type: application/x-javascript
+
+Uri: https://st.vk.com/js/cmodules/mobile/b-e26de325f9603fb08a22c8855b52d8e7.1c0a006643d9a272438b.js?e7be1c82e69755b8d1969b70d6f49829f7a340bef1785ef1f32feb193277033a
+File Name: C:\Users\alexp\Desktop\Фишинг\ВК\m.vk.com\js\cmodules\mobile\b-e26de325f9603fb08a22c8855b52d8e7.1c0a006643d9a272438b.js
+Content Type: application/x-javascript
+
+Uri: https://st.vk.com/js/cmodules/mobile/b-daa6459548e17297c3e150b5af3268f6.86168bd6fd0758a56af1.js?03bd18350b1e9d49bb94d6f5304703ef99842816319e300c05d875d9112474d9
+File Name: C:\Users\alexp\Desktop\Фишинг\ВК\m.vk.com\js\cmodules\mobile\b-daa6459548e17297c3e150b5af3268f6.86168bd6fd0758a56af1.js
+Content Type: application/x-javascript
+
+Uri: https://st.vk.com/js/cmodules/mobile/grip.1e7934d2a797e0789a3c.js?b41f4ae376485c45d603f91310ba542fbfba86ffc4fb6fb06c2ab9de73e436f5
+File Name: C:\Users\alexp\Desktop\Фишинг\ВК\m.vk.com\js\cmodules\mobile\grip.1e7934d2a797e0789a3c.js
+Content Type: application/x-javascript
+
+Uri: https://st.vk.com/js/cmodules/mobile/unauthorized.0c520b1f81550eec1e3a.js?8c54c6bd707b5e86980333c9066a239d3d749341c9cb25febc6f79c1f2ac59a3
+File Name: C:\Users\alexp\Desktop\Фишинг\ВК\m.vk.com\js\cmodules\mobile\unauthorized.0c520b1f81550eec1e3a.js
+Content Type: application/x-javascript
+
+Uri: https://static.vk.com/restore/
+File Name: C:\Users\alexp\Desktop\Фишинг\ВК\m.vk.com\restore\index.htm
+Content Type: text/html
+
+Uri: https://accounts.google.com/AccountChooser?oauth=1&continue=https:%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Flegacy%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hANfcsIOBQVSjPa0cwN1Ge38NRVR3cNBpCoYQcLPsNn9FPsT_wD52degCzkbt4QrNLI6HisPQtEEWYZ7SZUCzU9pbCgA4jZhckpEHN1J2Jv0qgzgn8jh0900nG2OpxMx6wz7LK9m-2evwZF5jeOhh9XiYXitQI5wDqa0GsKBQmY7S_6C-EC_TAIgqpdFVBXPbEi9X5neYQpQGn4RDpdgY_9uocwHiaYn7qqUuQh-g4xzAVFP0XZ-FvyQkRfxFdWvs6DyTs0TSP616v8VyiRAzG6HEfPx6RdSoDwG4PZEh5xoO1QLq0pMcvYk3G-Kyy_4z1JBkI4HpKi80wrCYfUCKZMRTgwTJTd-dEiZW0VDkqAbDisUKKEoWWl1WA6q4DJi0Mi0TNBn7Sn_1KKoAQRmrf_sTvYS-DkgjZQsO3TClQkiiA5ML8LH0KOMCH3zg7zLsLi0zmzx%26as%3DS-1073018894%253A1620474233448662%23
+File Name: C:\Users\alexp\Desktop\Фишинг\ВК\m.vk.com\AccountChooser.html
+Content Type: text/html
+
+Uri: https://accounts.google.com/ServiceLogin?continue=https:%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Flegacy%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hANfcsIOBQVSjPa0cwN1Ge38NRVR3cNBpCoYQcLPsNn9FPsT_wD52degCzkbt4QrNLI6HisPQtEEWYZ7SZUCzU9pbCgA4jZhckpEHN1J2Jv0qgzgn8jh0900nG2OpxMx6wz7LK9m-2evwZF5jeOhh9XiYXitQI5wDqa0GsKBQmY7S_6C-EC_TAIgqpdFVBXPbEi9X5neYQpQGn4RDpdgY_9uocwHiaYn7qqUuQh-g4xzAVFP0XZ-FvyQkRfxFdWvs6DyTs0TSP616v8VyiRAzG6HEfPx6RdSoDwG4PZEh5xoO1QLq0pMcvYk3G-Kyy_4z1JBkI4HpKi80wrCYfUCKZMRTgwTJTd-dEiZW0VDkqAbDisUKKEoWWl1WA6q4DJi0Mi0TNBn7Sn_1KKoAQRmrf_sTvYS-DkgjZQsO3TClQkiiA5ML8LH0KOMCH3zg7zLsLi0zmzx%26as%3DS-1073018894%253A1620474233448662%23&sacu=1&oauth=1&rip=1
+File Name: C:\Users\alexp\Desktop\Фишинг\ВК\m.vk.com\ServiceLogin.html
+Content Type: text/html
+
+Uri: https://sb.scorecardresearch.com/p2?c1=2&c2=13765216&c3=&c4=https:%2F%2Fm.vk.com%2Flogin&c5=&c9=&c15=&cv=2.0&cj=1&rn=63985997
+File Name: C:\Users\alexp\Desktop\Фишинг\ВК\m.vk.com\p2.gif
+Content Type: image/gif
+
+Uri: https://top-fwz1.mail.ru/counter2?id=2579437;pid=0;r=
+File Name: C:\Users\alexp\Desktop\Фишинг\ВК\m.vk.com\counter2.gif
+Content Type: image/gif
+
